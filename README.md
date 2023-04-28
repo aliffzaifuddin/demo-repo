@@ -5,5 +5,3 @@ Some description!
 ## Sub-header
 
 This is the tutorial
-
-Try hello 1 2 3
